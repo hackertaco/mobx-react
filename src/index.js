@@ -4,7 +4,6 @@ import './index.css';
 import App from './App.js'
 import reportWebVitals from './reportWebVitals';
 // import { makeAutoObservable } from 'mobx';
-// import {observer} from 'mobx-react';
 
 
 ReactDOM.render(
